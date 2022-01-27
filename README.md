@@ -5,7 +5,7 @@ Cada nota guarda la hora, minuto y segundo del video para acceder rápidamente a
 
 ## Comenzando 🚀
 
-_git clone https://github.com/libgit2/libgit2_
+_git clone https://github.com/blankitolv/notas_alumnos_zoom_coderhouse_
 
 ### Instalación 🔧
 
