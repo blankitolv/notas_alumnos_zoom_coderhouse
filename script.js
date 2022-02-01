@@ -26,7 +26,7 @@ inputNota__lucas.setAttribute("style", "padding: 5px;margin: 5px;");
 div__lucas.appendChild(inputNota__lucas);
 const divNotas__lucas=document.createElement('DIV');
 divNotas__lucas.id='divNotas';
-divNotas__lucas.setAttribute("style", "overflow-y: auto;height: 75vh; width:100%; border:1px solid gray");
+divNotas__lucas.setAttribute("style", "overflow-y: auto;height: 65vh; width:100%; border:1px solid gray");
 div__lucas.appendChild(divNotas__lucas)
 class NotasClase {
      
