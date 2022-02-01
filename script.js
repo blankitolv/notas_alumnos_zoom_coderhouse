@@ -2,7 +2,7 @@
 header__lucas=document.querySelector('.player-view-wrapper')
 const div__lucas=document.createElement('DIV');
 div__lucas.id= 'div__lucas'
-div__lucas.setAttribute("style","margin-left:10px;max-width:30%;")
+div__lucas.setAttribute("style","margin-left:10px;max-width:30%;margin-down:20px;")
 const h2__lucas=document.createElement('H2');
 h2__lucas.setAttribute("style","text-align:center;font-weigth:500;")
 h2__lucas.innerHTML=`Notas del Alumno`
